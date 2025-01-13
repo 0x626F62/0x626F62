@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0x626F62
 - 👀 Linux, *BSD, C, Python, Microcontrollers (ESP32/FreeRTOS/Arduino)
-- 🌱 Always looking to expand my knowledge of the above.
-- 💞️ I’m willing to work on anything I can help and learn.
+- 🌱 Always looking to expand my knowledge.
+- 💞️ I’m willing to work on anything I can help with, and learn.
 - 📫 I can be reached on here.
 
 <!---
